@@ -1,3 +1,3 @@
-Git is a version control system.
 Git is free softare.
 Git commit test.
+Git version test.
